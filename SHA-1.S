@@ -1,7 +1,5 @@
 
 .text
-output: .asciz "twojstaryyy: %d\n"
-output2: .asciz "twojstary2: %d\n"
 
 .global sha1_chunk
 
